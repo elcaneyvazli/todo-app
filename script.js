@@ -74,6 +74,7 @@ button.onclick = function (e) {
       
     });
   }
+  //@ts-check
   let duzelt = document.querySelectorAll(".duzelt");
   let inp = document.querySelectorAll(".inp");
   for (let i = 0; i < list.length; i++){
